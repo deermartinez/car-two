@@ -45,12 +45,12 @@ function acuraFun(){
         + "Description: " + acura.description + "<br>" + "Features: " + acura.features
     }
 }
-//clear
+
 function clear1() {
     document.getElementById("submit1").innerText="See Details";
 }
 
-function clear3() {
+function clear2() {
     document.getElementById("submit2").innerText="See Details";
 }
 
